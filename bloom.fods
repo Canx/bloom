@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:initial-creator>ruben </meta:initial-creator><meta:creation-date>2015-01-14T11:49:58.893156007</meta:creation-date><dc:date>2015-01-14T13:13:19.624545150</dc:date><dc:creator>ruben </dc:creator><meta:editing-duration>PT1H23M15S</meta:editing-duration><meta:editing-cycles>19</meta:editing-cycles><meta:generator>LibreOffice/4.3.3.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="325" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">29585</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">16707</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Bloom">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">7</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="Hoja1">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Hoja1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">270</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">es</config:config-item>
+     <config:config-item config:name="Country" config:type="string">ES</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard">
+     <ooo:module ooo:name="Funciones">
+      <ooo:source-code>REM  *****  BASIC  *****
+
+function buscarlista( rango_valores as variant, cadena_objetivo as string) As Boolean
+   Dim objetivo as string
+   
+   objetivo = ucase(cadena_objetivo)
+   
+   for row = 1 to ubound(rango_valores, 1)
+      for col = 1 to ubound(rango_valores, 2)
+         prueba = ucase(rango_valores(row, col))
+         resultado = InStr(objetivo, prueba)
+         if resultado &lt;&gt; 0 Then
+            buscarlista=TRUE
+            Exit Function
+         endif
+      next
+   next
+   buscarlista=FALSE
+end function
+
+      </ooo:source-code>
+     </ooo:module>
+    </ooo:library-embedded>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="1.25cm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="es" fo:country="ES" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N103P0" style:volatile="true">
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+   <number:currency-symbol number:language="es" number:country="ES">€</number:currency-symbol>
+  </number:currency-style>
+  <number:currency-style style:name="N103">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+   <number:currency-symbol number:language="es" number:country="ES">€</number:currency-symbol>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N103P0"/>
+  </number:currency-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="Droid Sans Fallback" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N103"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+  <style:style style:name="Rojo" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ff0000"/>
+   <style:text-properties fo:color="#ff0000"/>
+  </style:style>
+  <style:style style:name="Verde" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#23ff23"/>
+   <style:text-properties fo:color="#00ff00"/>
+  </style:style>
+  <draw:marker draw:name="Fin_20_de_20_línea_20_1" draw:display-name="Fin de línea 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="14.624cm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.708cm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.875cm"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.542cm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.321cm"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.096cm"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.93cm"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.985cm"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.736cm"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="0.452cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#83caff" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffff99" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="cell-content()=&quot;False&quot;" style:apply-style-name="Rojo" style:base-cell-address="Hoja1.B2"/>
+   <style:map style:condition="cell-content()=&quot;True&quot;" style:apply-style-name="Verde" style:base-cell-address="Hoja1.B2"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#83caff"/>
+  </style:style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Fin_20_de_20_línea_20_1" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.469cm" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm" draw:shadow="hidden" draw:shadow-offset-x="0.1cm" draw:shadow-offset-y="0.1cm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Fin_20_de_20_línea_20_1" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.976cm" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm" draw:shadow="hidden" draw:shadow-offset-x="0.1cm" draw:shadow-offset-y="0.1cm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:style style:name="gr3" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Fin_20_de_20_línea_20_1" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.556cm" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm" draw:shadow="hidden" draw:shadow-offset-x="0.1cm" draw:shadow-offset-y="0.1cm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:style style:name="gr4" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Fin_20_de_20_línea_20_1" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.186cm" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm" draw:shadow="hidden" draw:shadow-offset-x="0.1cm" draw:shadow-offset-y="0.1cm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic">
+   <style:graphic-properties draw:marker-start="Fin_20_de_20_línea_20_1" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.939cm" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm" draw:shadow="hidden" draw:shadow-offset-x="0.1cm" draw:shadow-offset-y="0.1cm" draw:caption-escape-direction="auto"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.25cm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.25cm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.25cm" fo:border="2.49pt solid #000000" fo:padding="0.018cm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.25cm" fo:border="2.49pt solid #000000" fo:padding="0.018cm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="P1" style:family="paragraph">
+   <style:paragraph-properties style:text-autospace="none" style:line-break="normal" style:writing-mode="page"/>
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="es" fo:country="ES" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color" fo:hyphenate="false"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="es" fo:country="ES" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L4">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L8">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L9">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L10">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L11">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L12">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="0.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="1.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="2.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="3.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="4.8cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="5.6cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="6.4cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="7.2cm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Página <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-01-14">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Página <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:table table:name="Hoja1" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce2"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce3"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Objetivos</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr1" draw:text-style-name="P1" svg:width="2.899cm" svg:height="0.991cm" svg:x="17.931cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1">Recordar información</text:p>
+      </office:annotation>
+      <text:p>Conocimiento</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr2" draw:text-style-name="P1" svg:width="2.899cm" svg:height="2.176cm" svg:x="20.807cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Interpretar información poniéndola en sus propias palabras</text:span></text:p>
+      </office:annotation>
+      <text:p>Comprensión</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr2" draw:text-style-name="P1" svg:width="2.899cm" svg:height="2.176cm" svg:x="23.348cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Usar el conocimiento o la generalización en una nueva situación</text:span></text:p>
+      </office:annotation>
+      <text:p>Aplicación</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr2" draw:text-style-name="P1" svg:width="2.899cm" svg:height="2.176cm" svg:x="25.67cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Dividir el conocimiento en partes y mostrar relaciones entre ellas</text:span></text:p>
+      </office:annotation>
+      <text:p>Análisis</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr3" draw:text-style-name="P1" svg:width="2.899cm" svg:height="3.756cm" svg:x="27.927cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Juntar o unir, partes o fragmentos de conocimiento para formar un todo y construir relaciones para situaciones nuevas</text:span></text:p>
+      </office:annotation>
+      <text:p>Síntesis</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr4" draw:text-style-name="P1" svg:width="2.899cm" svg:height="1.386cm" svg:x="30.185cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Hacer juicios en base a criterios dados</text:span></text:p>
+      </office:annotation>
+      <text:p>Evaluación</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A2]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A2]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A2]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A2]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A2]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A2]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A2]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A2]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A2]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A2]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A2]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A2]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A3]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A3]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A3]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A3]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A3]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A3]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A3]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A3]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A3]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A3]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A3]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A3]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A4]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A4]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A4]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A4]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A4]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A4]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A4]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A4]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A4]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A4]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A4]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A4]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A5]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A5]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A5]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A5]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A5]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A5]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A5]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A5]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A5]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A5]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A5]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A5]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A6]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A6]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A6]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A6]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A6]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A6]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A6]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A6]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A6]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A6]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A6]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A6]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A7]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A7]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A7]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A7]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A7]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A7]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A7]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A7]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A7]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A7]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A7]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A7]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A8]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A8]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A8]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A8]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A8]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A8]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A8]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A8]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A8]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A8]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A8]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A8]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A9]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A9]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A9]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A9]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A9]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A9]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A9]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A9]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A9]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A9]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A9]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A9]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A10]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A10]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A10]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A10]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A10]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A10]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A10]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A10]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A10]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A10]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A10]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A10]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A11]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A11]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A11]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A11]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A11]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A11]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A11]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A11]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A11]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A11]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A11]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A11]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A12]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A12]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A12]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A12]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A12]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A12]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A12]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A12]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A12]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A12]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A12]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A12]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A13]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A13]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A13]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A13]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A13]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A13]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A13]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A13]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A13]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A13]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A13]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A13]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A14]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A14]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A14]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A14]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A14]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A14]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A14]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A14]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A14]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A14]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A14]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A14]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A15]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A15]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A15]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A15]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A15]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A15]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A15]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A15]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A15]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A15]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A15]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A15]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A16]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A16]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A16]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A16]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A16]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A16]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A16]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A16]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A16]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A16]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A16]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A16]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A17]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A17]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A17]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A17]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A17]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A17]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A17]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A17]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A17]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A17]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A17]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A17]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A18]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A18]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A18]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A18]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A18]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A18]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A18]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A18]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A18]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A18]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A18]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A18]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A19]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A19]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A19]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A19]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A19]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A19]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A19]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A19]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A19]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A19]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A19]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A19]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A20]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A20]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A20]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A20]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A20]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A20]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A20]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A20]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A20]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A20]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A20]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A20]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A21]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A21]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A21]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A21]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A21]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A21]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A21]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A21]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A21]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A21]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A21]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A21]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A22]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A22]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A22]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A22]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A22]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A22]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A22]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A22]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A22]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A22]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A22]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A22]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A23]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A23]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A23]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A23]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A23]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A23]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A23]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A23]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A23]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A23]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A23]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A23]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A24]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A24]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A24]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A24]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A24]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A24]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A24]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A24]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A24]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A24]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A24]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A24]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A25]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A25]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A25]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A25]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A25]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A25]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A25]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A25]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A25]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A25]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A25]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A25]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A26]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A26]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A26]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A26]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A26]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A26]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A26]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A26]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A26]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A26]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A26]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A26]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A27]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A27]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A27]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A27]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A27]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A27]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A27]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A27]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A27]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A27]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A27]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A27]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A28]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A28]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A28]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A28]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A28]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A28]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A28]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A28]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A28]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A28]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A28]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A28]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A29]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A29]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A29]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A29]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A29]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A29]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A29]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A29]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A29]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A29]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A29]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A29]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A30]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A30]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A30]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A30]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A30]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A30]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A30]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A30]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A30]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A30]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A30]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A30]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A31]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A31]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A31]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A31]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A31]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A31]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A31]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A31]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A31]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A31]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A31]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A31]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A32]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A32]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A32]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A32]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A32]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A32]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A32]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A32]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A32]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A32]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A32]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A32]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A33]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A33]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A33]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A33]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A33]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A33]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A33]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A33]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A33]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A33]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A33]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A33]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A34]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A34]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A34]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A34]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A34]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A34]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A34]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A34]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A34]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A34]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A34]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A34]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A35]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A35]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A35]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A35]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A35]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A35]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A35]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A35]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A35]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A35]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A35]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A35]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A36]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A36]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A36]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A36]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A36]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A36]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A36]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A36]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A36]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A36]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A36]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A36]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A37]);BUSCARLISTA([Bloom.A$2:.A$100];[.$A37]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A37]);BUSCARLISTA([Bloom.B$2:.B$100];[.$A37]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A37]);BUSCARLISTA([Bloom.C$2:.C$100];[.$A37]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A37]);BUSCARLISTA([Bloom.D$2:.D$100];[.$A37]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A37]);BUSCARLISTA([Bloom.E$2:.E$100];[.$A37]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=IF(ISTEXT([.$A37]);BUSCARLISTA([Bloom.F$2:.F$100];[.$A37]);&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+    </table:table-row>
+    <calcext:conditional-formats>
+     <calcext:conditional-format calcext:target-range-address="Hoja1.B2:Hoja1.G37">
+      <calcext:condition calcext:apply-style-name="Rojo" calcext:value="=&quot;False&quot;" calcext:base-cell-address="Hoja1.B2"/>
+      <calcext:condition calcext:apply-style-name="Verde" calcext:value="=&quot;True&quot;" calcext:base-cell-address="Hoja1.B2"/>
+     </calcext:conditional-format>
+    </calcext:conditional-formats>
+   </table:table>
+   <table:table table:name="Bloom" table:style-name="ta1">
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr5" draw:text-style-name="P1" svg:width="2.899cm" svg:height="1.139cm" svg:x="3.695cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Recordar información</text:span></text:p>
+      </office:annotation>
+      <text:p>Conocimiento</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr2" draw:text-style-name="P1" svg:width="2.899cm" svg:height="2.176cm" svg:x="6.625cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Interpretar información poniéndola en sus propias palabras</text:span></text:p>
+      </office:annotation>
+      <text:p>Comprensión</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr2" draw:text-style-name="P1" svg:width="2.899cm" svg:height="2.176cm" svg:x="9.609cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Usar el conocimiento o la generalización en una nueva situación</text:span></text:p>
+      </office:annotation>
+      <text:p>Aplicación</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr2" draw:text-style-name="P1" svg:width="2.899cm" svg:height="2.176cm" svg:x="12.345cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Dividir el conocimiento en partes y mostrar relaciones entre ellas</text:span></text:p>
+      </office:annotation>
+      <text:p>Análisis</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr3" draw:text-style-name="P1" svg:width="2.899cm" svg:height="3.756cm" svg:x="15.053cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Juntar o unir, partes o fragmentos de conocimiento para formar un todo y construir relaciones para situaciones nuevas</text:span></text:p>
+      </office:annotation>
+      <text:p>Síntesis</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <office:annotation draw:style-name="gr4" draw:text-style-name="P1" svg:width="2.899cm" svg:height="1.386cm" svg:x="17.311cm" svg:y="0cm" draw:caption-point-x="-0.61cm" draw:caption-point-y="0.01cm">
+       <dc:date>2015-01-14T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Hacer juicios en base a criterios dados</text:span></text:p>
+      </office:annotation>
+      <text:p>Evaluación</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>organizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>clasificar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>aplicar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>analizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>organizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>valorar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>definir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>describir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>escoger</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>valorar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ensamblar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>argumentar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>duplicar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>discutir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>demostrar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>calcular</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>recopilar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>evaluar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rotular</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>explicar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>dramatizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>categorizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>componer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>atacar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>enumerar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>expresar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>emplear</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>comparar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>construir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>elegir</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>parear</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>identificar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ilustrar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>contrastar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>crear</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>comparar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>memorizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>indicar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>interpretar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>criticar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>diseñar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>defender</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>nombrar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ubicar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>operar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>diagramar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>formular</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>estimar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ordenar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>reconocer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>preparar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>diferenciar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>administrar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>evaluar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>reconocer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>reportar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>practicar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>discriminar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>organizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>juzgar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>relacionar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>reenunciar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>programar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>distinguir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>planear</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>predecir</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>recordar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>revisar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>esbozar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>examinar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>preparar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>calificar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>repetir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>seleccionar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>solucionar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>experimentar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>proponer</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>otorgar puntaje</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>reproducir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ordenar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>utilizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>inventariar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>trazar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>seleccionar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>registrar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>decir</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>planificar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>cuestionar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>sintetizar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>apoyar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>seleccionar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>traducir</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>examinar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>redactar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>valorar</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>planificar</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
